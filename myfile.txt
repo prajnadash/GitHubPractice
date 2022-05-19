@@ -1,8 +1,4 @@
 Helloworld.
-<<<<<<< HEAD
-Done dona done.
-I wanted to see if pull is working or not
-=======
 Done dona done,
 seems very easy
->>>>>>> b760bba1111fb3ef0f02d0d3d1113816f330cfb5
+I wanted to see if pull is working or not
